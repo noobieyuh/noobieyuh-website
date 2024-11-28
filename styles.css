@@ -35,6 +35,20 @@ header
     color: lightsalmon;
 }
 
+.special-info
+{
+    font-family: "Silkscreen", sans-serif;
+    font-size: 26px;
+    color: lightcoral;
+}
+
+.simple-info
+{
+    font-family: "Silkscreen", sans-serif;
+    font-size: 26px;
+    color: white;
+}
+
 .information-text
 {
     font-family: "Nunito", sans-serif;
@@ -88,13 +102,80 @@ header
 .tempting
 {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: red;
+    background-color: black;
     color: white;
-    border-color: black;
+    border-color: darkred;
 }
 
 .ending-text
 {
     font-family: "Nunito", sans-serif;
     color: pink;
+}
+
+.more-text
+{
+    font-family: "Nunito", sans-serif;
+    color: hotpink;
+}
+
+.music-text
+{
+    font-family: "Nunito", sans-serif;
+    color: lightgreen;
+}
+
+.computer-text
+{
+    font-family: "Nunito", sans-serif;
+    color: cadetblue;
+}
+
+.credits-button
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    border-color: lightcoral;
+    color: white;
+}
+
+.credits-text
+{
+    font-family: "Nunito", sans-serif;
+    color: gold;
+}
+
+.gold
+{
+    font-family: "Nunito", sans-serif;
+    color: gold;
+}
+
+.back-button
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    border-color: turquoise;
+    color: white;
+}
+
+.special-text
+{
+    font-family: "Silkscreen", sans-serif;
+    font-size: 36px;
+    color: lightgreen;
+}
+
+.more-button
+{
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    border-color: purple;
+    background-color: black;
+}
+
+.credits-text2
+{
+    font-family: "Nunito", sans-serif;
+    color: goldenrod;
 }
