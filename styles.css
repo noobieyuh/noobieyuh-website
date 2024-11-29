@@ -145,7 +145,7 @@ header
     color: gold;
 }
 
-.gold
+.gold-text
 {
     font-family: "Nunito", sans-serif;
     color: gold;
@@ -178,4 +178,10 @@ header
 {
     font-family: "Nunito", sans-serif;
     color: goldenrod;
+}
+
+.ending-credits-text
+{
+    font-family: "Nunito", sans-serif;
+    color: lightgoldenrodyellow;
 }
